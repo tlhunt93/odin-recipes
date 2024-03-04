@@ -1,0 +1,19 @@
+* {
+    background-color: beige;
+}
+
+body {
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.center {
+    text-align: center;
+    list-style: none;
+}
+
